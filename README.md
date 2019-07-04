@@ -1,5 +1,5 @@
-# handbreak
-My HandBrake Docker configuration.
+# HandBreak
+My [HandBrake](https://handbrake.fr/) [Docker](https://www.docker.com/) configuration.
 
 1. Make directory that has files to encode and preset.json file with encoding options.
 1. Build image:
